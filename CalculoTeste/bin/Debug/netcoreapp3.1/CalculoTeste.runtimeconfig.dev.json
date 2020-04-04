@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\ezile\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\ezile\\.nuget\\packages"
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+C:\Users\ezile\Desktop\Alexandre\repositorio\CalculoTeste\CalculoTeste\bin\Debug\netcoreapp3.1\CalculoTeste.exe
+C:\Users\ezile\Desktop\Alexandre\repositorio\CalculoTeste\CalculoTeste\bin\Debug\netcoreapp3.1\CalculoTeste.deps.json
+C:\Users\ezile\Desktop\Alexandre\repositorio\CalculoTeste\CalculoTeste\bin\Debug\netcoreapp3.1\CalculoTeste.runtimeconfig.json
+C:\Users\ezile\Desktop\Alexandre\repositorio\CalculoTeste\CalculoTeste\bin\Debug\netcoreapp3.1\CalculoTeste.runtimeconfig.dev.json
+C:\Users\ezile\Desktop\Alexandre\repositorio\CalculoTeste\CalculoTeste\bin\Debug\netcoreapp3.1\CalculoTeste.dll
+C:\Users\ezile\Desktop\Alexandre\repositorio\CalculoTeste\CalculoTeste\bin\Debug\netcoreapp3.1\CalculoTeste.pdb
+C:\Users\ezile\Desktop\Alexandre\repositorio\CalculoTeste\CalculoTeste\obj\Debug\netcoreapp3.1\CalculoTeste.csprojAssemblyReference.cache
+C:\Users\ezile\Desktop\Alexandre\repositorio\CalculoTeste\CalculoTeste\obj\Debug\netcoreapp3.1\CalculoTeste.csproj.CoreCompileInputs.cache
+C:\Users\ezile\Desktop\Alexandre\repositorio\CalculoTeste\CalculoTeste\obj\Debug\netcoreapp3.1\CalculoTeste.AssemblyInfoInputs.cache
+C:\Users\ezile\Desktop\Alexandre\repositorio\CalculoTeste\CalculoTeste\obj\Debug\netcoreapp3.1\CalculoTeste.AssemblyInfo.cs
+C:\Users\ezile\Desktop\Alexandre\repositorio\CalculoTeste\CalculoTeste\obj\Debug\netcoreapp3.1\CalculoTeste.dll
+C:\Users\ezile\Desktop\Alexandre\repositorio\CalculoTeste\CalculoTeste\obj\Debug\netcoreapp3.1\CalculoTeste.pdb
+C:\Users\ezile\Desktop\Alexandre\repositorio\CalculoTeste\CalculoTeste\obj\Debug\netcoreapp3.1\CalculoTeste.genruntimeconfig.cache
