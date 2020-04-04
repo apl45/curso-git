@@ -17,13 +17,15 @@ namespace CalculoTeste {
             double sub = n1 - n2;
             double mult = n1 * n2;
             double div = n1 / n2;
+            double res = n1 % n2;
 
 
             // saída de dados
-            Console.WriteLine("Soma          = " + soma.ToString("f2",CultureInfo.InvariantCulture));
-            Console.WriteLine("Subtração     = " + sub.ToString("f2", CultureInfo.InvariantCulture));
-            Console.WriteLine("Multiplicação = " + mult.ToString("f2", CultureInfo.InvariantCulture));
-            Console.WriteLine("Divisão       = " + div.ToString("f2", CultureInfo.InvariantCulture));
+            Console.WriteLine("Soma..........= " + soma.ToString("f2",CultureInfo.InvariantCulture));
+            Console.WriteLine("Subtração.....= " + sub.ToString("f2", CultureInfo.InvariantCulture));
+            Console.WriteLine("Multiplicação.= " + mult.ToString("f2", CultureInfo.InvariantCulture));
+            Console.WriteLine("Divisão.......= " + div.ToString("f2", CultureInfo.InvariantCulture));
+            Console.WriteLine("Resto.........= " + res.ToString("f2", CultureInfo.InvariantCulture));
         }
     }
 }
