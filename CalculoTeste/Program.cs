@@ -1,14 +1,17 @@
 ﻿using System;
 using System.Globalization;
 
-namespace CalculoTeste {
-    class Program {
-        static void Main(string[] args) {
+namespace CalculoTeste
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
 
             // entrada de dados
             Console.WriteLine("Entre com dois números para as operações ");
             Console.Write("digite o primeiro: ");
-            double n1 = double.Parse(Console.ReadLine(),CultureInfo.InvariantCulture);
+            double n1 = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
             Console.Write("Digite o segundo número: ");
             double n2 = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
 
@@ -21,11 +24,13 @@ namespace CalculoTeste {
 
 
             // saída de dados
-            Console.WriteLine("Soma..........= " + soma.ToString("f2",CultureInfo.InvariantCulture));
+            Console.WriteLine("-------------------------");
+            Console.WriteLine("Soma..........= " + soma.ToString("f2", CultureInfo.InvariantCulture));
             Console.WriteLine("Subtração.....= " + sub.ToString("f2", CultureInfo.InvariantCulture));
             Console.WriteLine("Multiplicação.= " + mult.ToString("f2", CultureInfo.InvariantCulture));
             Console.WriteLine("Divisão.......= " + div.ToString("f2", CultureInfo.InvariantCulture));
             Console.WriteLine("Resto.........= " + res.ToString("f2", CultureInfo.InvariantCulture));
+            Console.WriteLine("-------------------------");
         }
     }
 }
